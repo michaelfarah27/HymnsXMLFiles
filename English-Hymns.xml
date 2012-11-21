@@ -1,6 +1,6 @@
 <hymns>
    
-    <hymn>
+    <newhymn>
         <title>The Servant King</title>
         <content>From heaven you came
             helpless babe
@@ -55,7 +55,7 @@
             Of worship to
             the Servant King
         </content>
-    </hymn>
+    </newhymn>
     
     <hymn>
         <title>Humble thy self in the sight of the Lord</title>
@@ -1268,7 +1268,7 @@
     </hymn>
     
     
-    <hymn>
+    <newhymn>
         <title>Rock of My Salvation</title>
         <content>You are the rock of my salvation
             You are the strength of my life
@@ -1281,7 +1281,7 @@
             of need....... Lord unto You will I
             plead
         </content>
-    </hymn>
+    </newhymn>
     
     
     <hymn>
