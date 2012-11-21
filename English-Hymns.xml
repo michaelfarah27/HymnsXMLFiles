@@ -1,6 +1,7 @@
 <hymns>
-
-<newhymn> <title>The Servant King</title> <content>From heaven you came helpless
+	<newhymn>
+		<title>The Servant King</title>
+		<content>From heaven you came helpless
 babe Entered our world, your glory veiled Not to be served, but to serve And
 give your life, that we might live
 
@@ -24,9 +25,13 @@ So let us learn how to serve And in our lives enthrone him Each others needs to
 prefer For it is Christ we’re serving This is our God, the Servant King
 
 He calls us now to follow him To bring our lives as daily offering Of worship to
-the Servant King </content> </newhymn>
+the Servant King
+		</content>
+	</newhymn>
 
-<hymn> <title>Humble thy self in the sight of the Lord</title> <content>Humble
+	<hymn>
+		<title>Humble thy self in the sight of the Lord</title>
+		<content>Humble
 thy self in the sight of the Lord (Humble thy self in the sight of the
 Lord)...x2
 
@@ -34,14 +39,22 @@ And He (And He) Shall lift (Shall lift) you up (higher and higher) And He (And
 He) Shall lift (Shall lift) you up
 
 Our God is an awesome God He reigns from heaven above With wisdom, power and
-love Our God is an awesome God </content> </hymn>
+love Our God is an awesome God
+		</content>
+	</hymn>
 
-<hymn> <title>Make me a servant</title> <content>   Make me a servant, humble
+	<hymn>
+		<title>Make me a servant</title>
+		<content>   Make me a servant, humble
 and meek, Lord, let me lift up those who are weak. And may the prayer of my
 heart always be: Make me a servant make me a servant, Make me a servant today.  
-  </content> </hymn>
+ 
+		</content>
+	</hymn>
 
-<hymn> <title>One God Alone</title> <content>One God Alone My God is so good One
+	<hymn>
+		<title>One God Alone</title>
+		<content>One God Alone My God is so good One
 God Alone My God is good x2 He is My Strength, my love and my song My one
 desire, my hope and my rock Come taste and see My God is so good
 
@@ -60,11 +73,13 @@ Your name above all
 
 One God Alone My God is so good One God Alone My God is good
 
-One God Alone My God reigns over all One Good alone My Jesus is good. </content>
-</hymn>
+One God Alone My God reigns over all One Good alone My Jesus is good.
+		</content>
+	</hymn>
 
-
-<hymn> <title>Repentance</title> <content>A Cry of regret escapes the lips this
+	<hymn>
+		<title>Repentance</title>
+		<content>A Cry of regret escapes the lips this
 silent wail within, no longer bare
 
 erupting to a thousand bits like a wild fire spreading every where
@@ -85,11 +100,13 @@ Will You please forgive me the hope is there I truly know your death on earth
 sent to revive me like the thief and the paradise he knows My God I call…Can you
 hear me? I think I’m trapped Lord pull me from the shadow of death please save
 me Satan has me trapped in lethal chains now I’m bound to sin just like a slave
-Please break his hold and set me free your mighty hand I call to save </content>
-</hymn>
+Please break his hold and set me free your mighty hand I call to save
+		</content>
+	</hymn>
 
-
-<hymn> <title>Lean on Him</title> <content>Sometimes in our life, we all have
+	<hymn>
+		<title>Lean on Him</title>
+		<content>Sometimes in our life, we all have
 pain, we all have sorrow but if we are wise, we know that there’s always
 tomorrow Lean on Him, when you’re not strong And He’ll be your friend, He’ll
 help you carry on For it won’t be long, ‘Til your gonna see His glory and hold
@@ -108,10 +125,12 @@ might have a problem That He’ll understand We all need somebody to lean on
 If there is a load you have to bear, That you can’t carry He’s right up the
 road, He’ll share your load, If you just call Him call Him call Him call Him
 call Him
+		</content>
+	</hymn>
 
-</content> </hymn>
-
-<hymn> <title>All in All</title> <content>  You are my strength when I am weak
+	<hymn>
+		<title>All in All</title>
+		<content>  You are my strength when I am weak
 You are the treasure that I seek You are my all in all Seeking You as a precious
 jewel Lord to give up, I’d be a fool You are my all in all Jesus, Lamb of God,
 worthy is Your name Jesus, Lamb of God, worthy is Your name
@@ -120,20 +139,25 @@ Taking my sin, my cross, my shame Rising again, I bless Your name You are my all
 in all When I fall down, You pick me up When I am dry, You fill my cup You are
 my all in all Jesus, Lamb of God, worthy is Your name Jesus, Lamb of God, worthy
 is Your name
+		</content>
+	</hymn>
 
-</content> </hymn>
-
-
-<hymn> <title>Jesus, You’re the sweetest name of all</title> <content>Jesus,
+	<hymn>
+		<title>Jesus, You’re the sweetest name of all</title>
+		<content>Jesus,
 You’re the sweetest name of all Jesus, You always hear me when I call Oh, Jesus,
 You pick me up each time I fall You’re the sweetest, sweetest name of all Jesus,
 You’re the son and coming King Jesus, we need the love that You can bring Oh,
 Jesus, we lift our voices up and sing You’re the sweetest, sweetest name of all
 Jesus, how I love to praise Your name Jesus, you’re still the first, the last,
 the same Oh, Jesus, You died and took away my shame You’re the sweetest,
-sweetest name of all </content> </hymn>
+sweetest name of all
+		</content>
+	</hymn>
 
-<hymn> <title>Shout to the Lord</title> <content>My Jesus, my Saviour Lord there
+	<hymn>
+		<title>Shout to the Lord</title>
+		<content>My Jesus, my Saviour Lord there
 is none like You All of my days I want to praise The wonders of Your mighty love
 My comfort, my shelter Tower of refuge and strength Let every breath, all that I
 am Never cease to worship You
@@ -144,9 +168,13 @@ King Mountains bow down And the seas will roar At the sound of Your name
 I sing for joy at the work of Your hands Forever I’ll love You Forever I’ll
 stand
 
-Nothing compares To the promise I have In You </content> </hymn>
+Nothing compares To the promise I have In You
+		</content>
+	</hymn>
 
-<hymn> <title>Amazing Grace</title> <content>Amazing Grace, how sweet the sound,
+	<hymn>
+		<title>Amazing Grace</title>
+		<content>Amazing Grace, how sweet the sound,
 That saved a wretch like me.... I once was lost, but now am found, Was blind,
 but now, I see. T’was Grace that taught... my heart to fear. And Grace, my fears
 relieved. How precious did that Grace appear... the hour I first believed.
@@ -163,11 +191,12 @@ praise... then when we’ve first begun.
 
 Amazing Grace, how sweet the sound, That saved a wretch like me.... I once was
 lost but now am found, Was blind, but now, I see.
+		</content>
+	</hymn>
 
-</content> </hymn>
-
-
-<hymn> <title>As the deer</title> <content>As the deer pants for the water, So
+	<hymn>
+		<title>As the deer</title>
+		<content>As the deer pants for the water, So
 my soul longs after You. You alone are my heart’s desire, And I long to worship
 You.
 
@@ -183,20 +212,25 @@ I want You more than gold or silver, Only You can satisfy. You alone are the
 real joy giver, And on you I can rely
 
 You alone are my strength, my shield; To You alone may my spirit yield. You
-alone are my heart’s desire, And I long to worship You. </content> </hymn>
+alone are my heart’s desire, And I long to worship You. 
+		</content>
+	</hymn>
 
-
-<hymn> <title>I love You, Lord</title> <content>I love You, Lord And I lift my
+	<hymn>
+		<title>I love You, Lord</title>
+		<content>I love You, Lord And I lift my
 voice To worship You O my soul, rejoice! Take joy, My King, in what You hear,
 Let it be, Let it be a sweet, sweet sound In Your ear. x2</content> </hymn>
 
-<hymn> <title>Give Thanks</title> <content>Give thanks with a grateful heart
+<hymn> <title>Give Thanks</title>
+		<content>Give thanks with a grateful heart
 Give thanks to the Holy One Give thanks because He's given Jesus Christ, His Son
 x2 And now let the weak say, "I am strong" Let the poor say, "I am rich” Because
 of what the Lord has done for us"x2 Give thanks Give thanks Give
 thanks</content> </hymn>
 
-<hymn> <title>My Search For You</title> <content>I have been a witness to your
+<hymn> <title>My Search For You</title>
+		<content>I have been a witness to your
 smile, In times that have past. I believe I’ve shuddered from The protective
 shadow you cast I discovered essential beauty, hid behind the mask I felt your
 presence O ’Lord, for this is what I asked.
@@ -217,9 +251,13 @@ failures, yet knowing you’ll renew.
 
 I lost you in the crowds, Lord always passing through I did without a comfort
 that I once knew chose to flee the warm embrace that drew me to you I believe I
-was mistaken, now what do I do? </content> </hymn>
+was mistaken, now what do I do?
+		</content>
+	</hymn>
 
-<hymn> <title>Canticle of Creation</title> <content>As night gives birth to the
+	<hymn>
+		<title>Canticle of Creation</title>
+		<content>As night gives birth to the
 dawn and I see all the grandeur of each day. I long to have and to hold all the
 wonder of your heart, all the power in your love, all the mystery embodied in
 your word.
@@ -238,20 +276,26 @@ learn to see the hope, the dream in your al-mighty plan
 
 As night gives birth to the dawn and I see all the grandeur of each day. I long
 to have and to hold all the wonder of your heart, all the power in your love,
-all the mystery embodied in your word. </content> </hymn>
+all the mystery embodied in your word.
+		</content>
+	</hymn>
 
-<hymn> <title>Lord I Lift Your Name on High</title> <content>Lord, I lift Your
+	<hymn>
+		<title>Lord I Lift Your Name on High</title>
+		<content>Lord, I lift Your
 name on high; Lord, I love to sing Your praises; I’m so glad You’re in my life;
 I’m so glad You came to save us. You came from Heaven to earth; To show the way,
 From the earth to the cross, My debt to pay, From the cross to the grave, From
 the grave to the sky; Lord, I lift Your name on high!</content> </hymn>
 
-<hymn> <title>You are my hiding place</title> <content>You are my hiding place
+<hymn> <title>You are my hiding place</title>
+		<content>You are my hiding place
 You always fill my heart With songs of deliverance Whenever I am afraid I will
 trust in You I will trust in You Let the weak say I am strong In the strength of
 the Lord X2</content> </hymn>
 
-<hymn> <title>From all nations</title> <content>From all nations, From all
+<hymn> <title>From all nations</title>
+		<content>From all nations, From all
 tribes, From all people From all nations, From all tribes, From all tongues
 (Before the throne stand myriads, of myriads) (2x) Coming from everywhere
 
@@ -284,7 +328,8 @@ destroyed, for praising gave them joy (They were the ones he saved with the
 blood he gave) (2x) I saw them victorious as they came this way </content>
 </hymn>
 
-<hymn> <title>Above All</title> <content>Above all powers, above all kings Above
+<hymn> <title>Above All</title>
+		<content>Above all powers, above all kings Above
 all nature and all created things Above all wisdom and all the ways of man You
 were here before the world began Above all kingdoms, above all thrones Above all
 wonders the world has ever known Above all wealth and treasures of the earth
@@ -296,7 +341,8 @@ Trampled on the ground You took the fall And thought of me Above all Like a rose
 Trampled on the ground You took the fall And thought of me Above all </content>
 </hymn>
 
-<hymn> <title>Seek ye</title> <content>Seek ye first the Kingdom of God And his
+<hymn> <title>Seek ye</title>
+		<content>Seek ye first the Kingdom of God And his
 righteousness And all these things shall be added unto you Allelu, Allelujah
 Allelujah, Allelujah, Allelujah, Allelu, Allelujah Man cannot live by bread
 alone But by every word That proceeds from the mouth of God Allelu, Allelujah
@@ -307,10 +353,12 @@ the father but by me.” Allelu, Allelujah Allelujah, Allelujah, Allelujah,
 Allelu, Allelujah Ask and it shall be given unto you Seek and ye shall find
 Knock and the door shall be opened unto you Allelu, Allelujah Allelujah,
 Allelujah, Allelujah, Allelu, Allelujah
+		</content>
+	</hymn>
 
-</content> </hymn>
-
-<hymn> <title>How Deep</title> <content>How deep the Father’s love for us, How
+	<hymn>
+		<title>How Deep</title>
+		<content>How deep the Father’s love for us, How
 vast beyond all measure That He should give His only Son To make a wretch His
 treasure How great the pain of searing loss, The Father turns His face away As
 wounds which mar the chosen One, Bring many sons to glory
@@ -324,21 +372,30 @@ Jesus Christ His death and resurrection Why should I gain from His reward? I
 cannot give an answer But this I know with all my heart His wounds have paid my
 ransom
 
+		</content>
+	</hymn>
 
-</content> </hymn>
-
-<hymn> <title>Father I adore you</title> <content>Father, I adore You Lay my
+	<hymn>
+		<title>Father I adore you</title>
+		<content>Father, I adore You Lay my
 life before You How I love You Jesus, I adore You Lay my life before You How I
 love You Spirit, I adore You Lay my life before You How I love You</content>
 </hymn>
 
-<hymn> <title>In Christ alone</title> <content></content> </hymn>
+<hymn> <title>In Christ alone</title>
+		<content>
+		</content>
+	</hymn>
 
+	<hymn>
+		<title>Mary Did You Know</title>
+		<content>
+		</content>
+	</hymn>
 
-<hymn> <title>Mary Did You Know</title> <content></content> </hymn>
-
-
-<hymn> <title>Shine Jesus Shine</title> <content>Lord the Light of Your Love is
+	<hymn>
+		<title>Shine Jesus Shine</title>
+		<content>Lord the Light of Your Love is
 shining, In the midst of the darkness shining, Jesus light of the world shine
 upon us, Set us free by the truth You now bring us Shine on me. Shine on me
 
@@ -360,9 +417,13 @@ on me. Shine on me.
 
 Shine Jesus shine...Fill this land with the Father’s glory Blaze, Spirit blaze,
 Set our hearts on fire Flow, river flow Flood the nations with grace and mercy
-Send forth Your word Lord and let there be light. </content> </hymn>
+Send forth Your word Lord and let there be light.
+		</content>
+	</hymn>
 
-<hymn> <title>I will enter His gates</title> <content>I will enter His gates
+	<hymn>
+		<title>I will enter His gates</title>
+		<content>I will enter His gates
 with thanks giving in my heart I will enter His courts with praise I will say
 this is the day that the Lord has made I will rejoice for He has made me glad He
 has made me glad Oh He has made me glad I will rejoice for He has made me glad
@@ -373,12 +434,16 @@ I will enter His gates with thanks giving in my heart I will enter His courts
 with praise I will say this is the day that the Lord has made I will rejoice for
 He has made me glad He has made me glad Oh He has made me glad I will rejoice
 for He has made me glad He has made me glad Oh He has made me glad I will
-rejoice for He has made me glad. </content> </hymn>
+rejoice for He has made me glad. 
+		</content>
+	</hymn>
 
+	<hymn>
+		<title>I Surrender All</title>
+		<content></content> </hymn>
 
-<hymn> <title>I Surrender All</title> <content></content> </hymn>
-
-<hymn> <title>EFLOGI MENOS</title> <content>Blessed is He who comes in the name
+<hymn> <title>EFLOGI MENOS</title>
+		<content>Blessed is He who comes in the name
 of the Lord, and again in the name of the Lord Hosanna to the Son of David, and
 again to the Son of David. Hosanna in the highest, and again in the highest
 Hosanna to the King of Israel, and again to the King of Israel. Let us praise
@@ -401,11 +466,12 @@ also Zachariah prophesied and said: a prophecy about our Lord Jesus Christ
 
 Hosanna in the Highest, this is the King of Israel, Blessed is He Who comes in,
 the name of the Lord of Hosts
+		</content>
+	</hymn>
 
-</content> </hymn>
-
-
-<hymn> <title>How Lovely</title> <content>How lovely it is to get together In
+	<hymn>
+		<title>How Lovely</title>
+		<content>How lovely it is to get together In
 love our Lord teaches us When two meet in my Name together I’ll always be in
 between their gather
 
@@ -417,14 +483,12 @@ Him and He always listens He’ll always be with us, in us
 
 O Lord come now and join us here We ask You to come and give us cheer Fill us
 with joy from Your Holy Spirit And peace no riches can provide
+		</content>
+	</hymn>
 
-
-
-
-
-</content> </hymn>
-
-<hymn> <title>O’ Sing unto Him</title> <content>O’ Sing unto Him Who was
+	<hymn>
+		<title>O’ Sing unto Him</title>
+		<content>O’ Sing unto Him Who was
 crucified buried and resurrected And trampled and abolished Death Praise Him and
 exceedingly exalt Him. Take off the old man And put on the new one Come closer
 to His great mercy Praise Him and exceedingly exalt Him
@@ -453,11 +517,12 @@ Praise Him and exceedingly exalt Him. Hurry and be very vigilant O’ you
 righteous of the Lord And all the creatures whom He has made Praise Him and
 exceedingly exalt Him.
 
+		</content>
+	</hymn>
 
-</content> </hymn>
-
-
-<hymn> <title>Holy are You</title> <content>Holy are You O’ Lord and King Maker
+	<hymn>
+		<title>Holy are You</title>
+		<content>Holy are You O’ Lord and King Maker
 of heaven and earth, With Jesus Christ the life giver, And the Holy Spirit.
 Righteous is the Son, the Lamb of God, And praised by the heavenly hosts With
 His glorious Father, And the Holy Spirit Helper and giver of life, the Spirit of
@@ -467,9 +532,13 @@ the Holy Spirit.
 Honoured and exalted is the Father, From all the tribes and all the tongues, And
 praised with Jesus Christ His son, And the Holy Spirit. Compassionate is the
 Word of God The Good Shepherd, who was crucified for our sins, And saved us from
-our death, With the Holy Spirit. </content> </hymn>
+our death, With the Holy Spirit.
+		</content>
+	</hymn>
 
-<hymn> <title>Prince Of Peace</title> <content>Prince of peace is risen He is
+	<hymn>
+		<title>Prince Of Peace</title>
+		<content>Prince of peace is risen He is
 risen indeed Alleluia, Alleluia The Lord is risen At dawn of Sunday Mary
 Magdalene had gone With some spices and ointments For the Beloved One But Lord
 Jesus is risen Triumphantly at dawn And the angel of the Lord Rolled over the
@@ -486,11 +555,12 @@ did abide
 Alleluia, The good news is verified Alleluia, He’s risen and glorified Alleluia,
 To the Saviour of all men Alleluia, The thorn of death is broken Prince of peace
 is risen He is risen indeed Alleluia, Alleluia The Lord is risen
+		</content>
+	</hymn>
 
-</content> </hymn>
-
-
-<hymn> <title>Light of the world</title> <content>Light of the World, You
+	<hymn>
+		<title>Light of the world</title>
+		<content>Light of the World, You
 stepped down into darkness. Opened my eyes let me see. Beauty that makes this
 heart adore You. Hope of a life spent with You. So here I am to worship, Here I
 am to bow down. Here I am to say that You’re my God. You’re altogether lovely,
@@ -500,9 +570,13 @@ King of all days, Oh so highly exalted. Glorious in Heaven above. Humbly You
 came to the earth You created. All for love’s sake became poor. So here I am to
 worship, Here I am to bow down. Here I am to say that You’re my God. You’re
 altogether lovely, altogether worthy. Altogether wonderful to me. I’ll never
-know how much it cost To see my sins up on that cross......x3 </content> </hymn>
+know how much it cost To see my sins up on that cross......x3
+		</content>
+	</hymn>
 
-<hymn> <title>Sing Alleluia</title> <content>My Lord He died for a kingdom To
+	<hymn>
+		<title>Sing Alleluia</title>
+		<content>My Lord He died for a kingdom To
 redeem the hearts of men Now my people don’t you weep He has risen from His
 sleep He lives again, Alleluia
 
@@ -524,18 +598,22 @@ accord Live and love the risen Lord This is our song, Alleluia
 
 Sing Alleluia, the Lord is Risen He has Risen indeed Alleluia
 
+		</content>
+	</hymn>
 
-</content> </hymn>
-
-
-<hymn> <title>Father God</title> <content>Father God I wonder how I managed to
+	<hymn>
+		<title>Father God</title>
+		<content>Father God I wonder how I managed to
 exist Without the knowledge of Your Fatherhood And Your loving Care But now I am
 Your child, I am adopted in Your family And I will never be alone ‘Cause Father
 God You’re there beside me I will sing Your praises, I will sing Your praise I
-will Sing Your praise, Forever more! (x2)</content> </hymn>
+will Sing Your praise, Forever more! (x2)
+		</content>
+	</hymn>
 
-
-<hymn> <title>The Eve of the Last Supper</title> <content>1)The eve of the last
+	<hymn>
+		<title>The Eve of the Last Supper</title>
+		<content>1)The eve of the last
 supper, the eve of the last supper, He took bread and broke it, and said this is
 My body (2) Chorus Our Saviour gave to us the wine of His love, Saved us revived
 us Jesus the love of my heart, Jesus the love of my heart (X 2) 2) The eve of my
@@ -545,10 +623,13 @@ possessions are Yours, strengthen my hope in You, O’ You the fountain of love,
 (2) 4) They took You to the garden, and wrapped You in the shroud, O’ You the
 Gardener, where did they lay my Lord?(2) 5)He arose from the dead, surprising
 everyone, and the angel proclaimed, to Jesus the love of my heart, (2).
-</content> </hymn>
 
+		</content>
+	</hymn>
 
-<hymn> <title>Golgotha</title> <content>Golgotha in Hebrew Calvary in Greek The
+	<hymn>
+		<title>Golgotha</title>
+		<content>Golgotha in Hebrew Calvary in Greek The
 place where You Were crucified O’ Lord You stretched Your hands And they
 Crucified Two thieves with You, On Your right and on Your left And You in the
 midst O’ Good Saviour Glory be to the Father, the Son And the Holy Spirit
@@ -563,16 +644,22 @@ They praised Him saying: “Holy God, Holy Almighty, Holy Immortal, Who was
 crucified for us Have mercy on us” Glory be to the Father The Son and the Holy
 Spirit Now and forevermore Amen. We also worship Him Crying and saying “Have
 mercy on us O’ God our Saviour Who was crucified on the cross And crushed Satan
-under our feet” </content> </hymn>
+under our feet” 
+		</content>
+	</hymn>
 
-
-<hymn> <title>Come Let Us Worship</title> <content>(Come let us worship and bow
+	<hymn>
+		<title>Come Let Us Worship</title>
+		<content>(Come let us worship and bow
 down Let us kneel before the Lord, Our God, our Maker For He is our God And we
 are the people of His pasture And the sheep of His hand Just the sheep of His
-hand) x2 </content> </hymn>
+hand) x2 
+		</content>
+	</hymn>
 
-
-<hymn> <title>Agnus Dei</title> <content>Alle-lu-ia Alle-lu-ia For our Lord God
+	<hymn>
+		<title>Agnus Dei</title>
+		<content>Alle-lu-ia Alle-lu-ia For our Lord God
 Almighty Reigns Alle-lu-ia Alle-lu-ia For our Lord God Almighty Reigns
 Alle-lu-ia
 
@@ -581,14 +668,16 @@ You are Holy, Holy Are You Lord God Almighty Worthy is the Lamb Worthy is the
 Lamb You are Holy </content> </hymn>
 
 
-<newhymn> <title>Rock of My Salvation</title> <content>You are the rock of my
+<newhymn> <title>Rock of My Salvation</title>
+		<content>You are the rock of my
 salvation You are the strength of my life You are my hope and my inspiration
 Lord unto You will I cry I believe in You, believe in You For Your faithful love
 to me You have been my help in time of need....... Lord unto You will I plead
 </content> </newhymn>
 
 
-<hymn> <title>Very early Sunday morning</title> <content>Very early Sunday
+<hymn> <title>Very early Sunday morning</title>
+		<content>Very early Sunday
 morning While the guards were still asleep Our Lord arose declaring His promise
 He did keep. Chorus Resurrection is my song Resurrection gave me life
 Resurrection made me strong Jesus my Lord is alive. Jesus is risen in glory
@@ -609,14 +698,18 @@ Risen is the King of peace Alleluia, Alleluia Truly He’s risen indeed Chorus
 Resurrection is my song Resurrection gave me life Resurrection made me strong
 Jesus my Lord is alive. Jesus is risen in glory Heaven and earth sang and
 praised And the angel told the story He is risen as He said.
+		</content>
+	</hymn>
 
-</content> </hymn>
+	<hymn>
+		<title>The Baker Woman</title>
+		<content> 
+		</content>
+	</hymn>
 
-
-<hymn> <title>The Baker Woman</title> <content> </content> </hymn>
-
-
-<hymn> <title>We worship (The Prime Doxology)</title> <content>We worship the
+	<hymn>
+		<title>We worship (The Prime Doxology)</title>
+		<content>We worship the
 Father, the SonAnd the Holy Spirit Hail to the church The house of the angels
 Hail to the Virgin Who brought forth our Saviour Hail to Gabriel Who brought her
 the good news Hail to Michael The Archangel Hail to the Twenty four priests Hail
@@ -627,10 +720,13 @@ father Mark the Evangelist The destroyer Of the idols Hail to Stephen The first
 martyr Hail to George The morning star Hail to all the choirs Of the martyrs
 Hail to Abba Antony And the three Macarii Hail to all the choirs Of the cross
 bearers Hail to all the saints Who have pleased the Lord Through their prayers O
-Christ our King Accord to us mercy In Thy kingdom       </content> </hymn>
+Christ our King Accord to us mercy In Thy kingdom       
+		</content>
+	</hymn>
 
-
-<hymn> <title>Seven Times</title> <content>Seven times each day With all my
+	<hymn>
+		<title>Seven Times</title>
+		<content>Seven times each day With all my
 heart I bless Your name O’ Lord of all. I remembered Your Name And was comforted
 O’ King of kings And God of gods. Jesus Christ Our true God Who was incarnated
 For our salvation. Of the Holy Spirit, And of Saint Mary The pure Bride. And
@@ -643,11 +739,12 @@ Sherene Maria, cheers of Eve Sherene Maria, joy of generations Sherene Maria,
 joy of the righteous Abel Sherene Maria, true Virgin Sherene Maria, rescue of
 Noah Sherene Maria, innocent peaceful lady Sherene Maria, beauty of Abraham
 Sherene Maria, O’ great crown Sherene Maria, rescue of Isaac the saint
+		</content>
+	</hymn>
 
-</content> </hymn>
-
-
-<hymn> <title>Sherene Maria</title> <content>Sherene Maria, mother of the Holy
+	<hymn>
+		<title>Sherene Maria</title>
+		<content>Sherene Maria, mother of the Holy
 Sherene Maria, cheer of Jacob Sherene Maria, joy of the multitudes Sherene
 Maria, honour of Judah Sherene Maria, mother of the Lord Sherene Maria, strength
 of the righteous job Sherene Maria, O’ precious stone Sherene Maria, mother of
@@ -657,11 +754,12 @@ Maria, healing of Jeremiah Sherene Maria, knowledge of Ezekiel Sherene Maria,
 favour of Daniel Sherene Maria, strength of Elijah Sherene Maria, beauty of
 Elisha Sherene Maria, mother of God Sherene Maria, mother of Jesus Christ
 Sherene Maria, beautiful dove Sherene Maria, mother of God’s Son
+		</content>
+	</hymn>
 
-</content> </hymn>
-
-
-<hymn> <title>St Mark?</title> <content>Honoured are you Oh St Mark. The pure
+	<hymn>
+		<title>St Mark?</title>
+		<content>Honoured are you Oh St Mark. The pure
 disciple and evangelist In your house they held the first Eucharist Your home
 became our first church Blessed is your upper room Oh St Mark Where Lord Jesus
 gave His covenant He washed and filled the disciples With the Holy spirit
@@ -687,10 +785,13 @@ the time has come To receive your award Be courageous as your name has been
 Written in the book of life Jesus said to him OH MARK MY DESCIPLE AND MY
 EVANGELIST PEACE BE WITH YOU Mark screamed and said MY LORD JESUS Blessed are
 you Oh St Mark the crown holder Who taught the Copts about our Lord Oh
-honourable intercessor And GLORY BE TO GOD </content> </hymn>
+honourable intercessor And GLORY BE TO GOD 
+		</content>
+	</hymn>
 
-
-<hymn> <title>My Coptic Church</title> <content>My Coptic Church. The church of
+	<hymn>
+		<title>My Coptic Church</title>
+		<content>My Coptic Church. The church of
 the Lord Ancient and Strong, I wish her long life In the early years, After the
 birth of Christ St. Mark came bearing, The light of the true faith He dwelt in
 the land, proclaiming salvation In the name of our Redeemer, Christ who removed
@@ -713,11 +814,12 @@ Let us all rise, from our laziness With diligence seeking, the heavenly rewards
 The Church of the Fathers, you are our pride To her success, let us all join
 together My Coptic Church, her faith is orthodox Forever strong, Egypt is
 Christ’s
+		</content>
+	</hymn>
 
-</content> </hymn>
-
-
-<hymn> <title>St Mark</title> <content>I’ll tell you a tale of one who you’ll
+	<hymn>
+		<title>St Mark</title>
+		<content>I’ll tell you a tale of one who you’ll
 see One of the greatest you’ll ever meet He’s a rock he’s a rod The beholder of
 God And He came out to preach Salvation for humanity
 
@@ -744,12 +846,12 @@ salvation to every single nation
 Those were the days we can look to see Him Who led you to your long journey In
 Egypt you have served And The people have heard They loved you fervently, Those
 people are our families
+		</content>
+	</hymn>
 
-</content> </hymn>
-
-
-
-<hymn> <title>Saint Mark’s Doxology</title> <content>Hail to you Saint Mark The
+	<hymn>
+		<title>Saint Mark’s Doxology</title>
+		<content>Hail to you Saint Mark The
 son of Arostopolos Who preached the name of Isos Markos Piapostolos. You were
 born in Cyrene And fled to Palestine The land of the Divine Markos Piapostolos.
 You followed Jesus Christ From the east to the west While He was in your midst
@@ -774,19 +876,21 @@ In Alexandria you built A school that was the first Many Popes graduated from it
 Markos Piapostolos. And when you were martyred Your body was not burned God
 ordered and it rained Markos Piapostolos. You are God’s beholder And our
 intercessor Remember us in your prayer Markos Piapostolos.
+		</content>
+	</hymn>
 
-</content> </hymn>
-
-
-
-<hymn> <title>Awesome God</title> <content>Our God is an awesome God He reigns
+	<hymn>
+		<title>Awesome God</title>
+		<content>Our God is an awesome God He reigns
 from heaven above With wisdom, power and love Our God is an awesome God Our God
 is an awesome God He reigns from heaven above With wisdom, power and love Our
-God is an awesome God</content> </hymn>
+God is an awesome God
+		</content>
+	</hymn>
 
-
-
-<hymn> <title>One in you</title> <content>There is one Man who lived for us One
+	<hymn>
+		<title>One in you</title>
+		<content>There is one Man who lived for us One
 Man who died for us, that’s You You came to reconcile us One Man who unites us,
 that’s You
 
@@ -794,27 +898,33 @@ Together we stand as one at the cross We lift our hands to You Jesus We love You
 Jesus We worship Jesus We’re one in You x2
 
 We’re one in You We lift Your name We give You praise We’re one in You x2
-</content> </hymn>
+		</content>
+	</hymn>
 
-
-
-<hymn> <title>Perfect Servant</title> <content>Jesus, You are Jesus, You were
+	<hymn>
+		<title>Perfect Servant</title>
+		<content>Jesus, You are Jesus, You were
 Jesus, You will always be A perfect Servant to us A perfect Servant to death
 Even death on a cross Give us a picture of Your face Show us the measure of Your
 grace Reveal the love of the Father Put within us tenderness Release from us all
 selfishness We’ll consider them better We are Yours Give us hearts of
-servants</content> </hymn>
+servants
+		</content>
+	</hymn>
 
-
-
-<hymn> <title>Lord i give you my heart</title> <content>This is my desire – to
+	<hymn>
+		<title>Lord i give you my heart</title>
+		<content>This is my desire – to
 honour You Lord with all my heart I worship You All I have within me I give You
 praise All that I adore is in You Lord I give You my heartt I give You my soul I
 live for You alone Every breath that I take Every moment I’m awake Lord have
-Your way in me </content> </hymn>
+Your way in me 
+		</content>
+	</hymn>
 
-
-<hymn> <title>Ekhristos Anesti</title> <content>Ekhristos Anesti Alithos Anesti
+	<hymn>
+		<title>Ekhristos Anesti</title>
+		<content>Ekhristos Anesti Alithos Anesti
 Christ has risen! He has truly risen! {Jesus the compassionate was crucified to}
 x2 redeem the human race from the fortress of Satan
 
@@ -833,10 +943,13 @@ beautiful, is the feast of the glorious Resurrection} x2 And every Sunday a
 feast Christ has risen
 
 Ekhristos Anesti Alithos Anesti Christ has risen He has truly risen Ekhristos
-Anesti Alithos Anesti Christ has risen He has truly risen </content> </hymn>
+Anesti Alithos Anesti Christ has risen He has truly risen 
+		</content>
+	</hymn>
 
-
-<hymn> <title>Hold my hand and lead</title> <content>My soul is crushed and my
+	<hymn>
+		<title>Hold my hand and lead</title>
+		<content>My soul is crushed and my
 heart is faint Please hear the voice of my complaint (Yet I shall wait only for
 the Lord) x2 (He fills my heart with glorious joy) x2 Chorus Out of the depth
 have I cried to Thee O’ Lord, hear me and have mercy (Why don’t You hold my hand
@@ -858,11 +971,12 @@ in Him and you will be saved) x2 (And you will live in the house of God) x2
 Chorus Out of the depth have I cried to Thee O’ Lord, hear me and have mercy
 (Why don’t You hold my hand and lead) x2 (Because I am really in great need) x2
 
+		</content>
+	</hymn>
 
-</content> </hymn>
-
-
-<hymn> <title>How great thou art</title> <content>O Lord My Lord, when I in
+	<hymn>
+		<title>How great thou art</title>
+		<content>O Lord My Lord, when I in
 awesome wonder Consider all, the worlds they hands have made I see the stars, I
 hear the rolling thunder Thy power throughout the universe displayed! Then sings
 my soul my saviour God to thee, how great thou art how great thou art Then sings
@@ -884,10 +998,13 @@ When Christ Shall come with shouts of acclimation and take me home, what joy
 shall fill my heart then I shall bow in humble adoration and there proclaim my
 God How great thou art Then sings my soul my saviour God to thee, how great thou
 art how great thou art Then sings my soul my saviour God to thee, how great thou
-art how great thou art </content> </hymn>
+art how great thou art 
+		</content>
+	</hymn>
 
-
-<hymn> <title>Come Sing A Song Of Joy</title> <content>Come sing a song of joy
+	<hymn>
+		<title>Come Sing A Song Of Joy</title>
+		<content>Come sing a song of joy
 For peace has come my brother Sing, sing a song of joy And let us love each
 other One man shall open the door By showing love more than we know No man can
 stand alone With outstretched hands before him Reach out and take them in yours
@@ -895,10 +1012,13 @@ With love that endures forevermore Then sing a song of joy For love and
 understanding Come sing a song of joy For we are freed my brother Sing, sing a
 song of joy And let us love each other One mighty voice will acclaim That love
 is the aim of every heart Then sing a song of joy For love has come among us
-</content> </hymn>
 
+		</content>
+	</hymn>
 
-<hymn> <title>Thy Word</title> <content>Chorus (Thy Word is a lamp unto my feet
+	<hymn>
+		<title>Thy Word</title>
+		<content>Chorus (Thy Word is a lamp unto my feet
 And a light unto my path) 2 When I feel afraid and think I’ve lost my way Still
 You’re there right beside me Nothing will I fear as long as You are near Please
 be near me to the end Chorus (Thy Word is a lamp unto my feet And a light unto
@@ -907,10 +1027,13 @@ my path) 2
 I will not forget Your love for me and yet My heart forever is wondering Jesus
 be my guide and hold me to Your side And I will love You to the end Chorus (Thy
 Word is a lamp unto my feet And a light unto my path) You’re the Light unto my
-path </content> </hymn>
+path 
+		</content>
+	</hymn>
 
-
-<hymn> <title>Spirit of Truth</title> <content>Let us praise the Lord For He is
+	<hymn>
+		<title>Spirit of Truth</title>
+		<content>Let us praise the Lord For He is
 glorified by glory Chorus He ascended to the highest heaven And sent to us the
 Paraclete Spirit of truth the comforter Amen. Alleluia
 
@@ -924,11 +1047,13 @@ Alleluia
 
 Complete Triune, three in One The Father, the Son and the Holy Spirit Spirit of
 truth the comforter Amen. Alleluia Chorus He ascended to the highest heaven And
-sent to us the Paraclete Spirit of truth the comforter Amen. Alleluia </content>
-</hymn>
+sent to us the Paraclete Spirit of truth the comforter Amen. Alleluia
+		</content>
+	</hymn>
 
-
-<hymn> <title>In the Darkness</title> <content>In the Darkness all alone Tears
+	<hymn>
+		<title>In the Darkness</title>
+		<content>In the Darkness all alone Tears
 rolling down my face I say Father, Father And I still can’t hear anything Lord I
 do not fit in Lord they don’t understand What is my reason for living? What
 purpose do you have planned?
@@ -941,19 +1066,25 @@ now I was in Your hands In your time I know It will all be fine And if I’m sti
 weary Remind me your plan is divine
 
 I wait for the day when I will be among the saints coming to see Your glory,
-your peace and Your loving care No worry no pain for eternity </content> </hymn>
+your peace and Your loving care No worry no pain for eternity 
+		</content>
+	</hymn>
 
-
-<hymn> <title>Beautiful beyond description</title> <content>You are beautiful
+	<hymn>
+		<title>Beautiful beyond description</title>
+		<content>You are beautiful
 beyond description More wonderful than any eye can see You alone deserve my deep
 devotion And to You alone, I bow on bended knee
 
 Victorious in battle, You have rescued me So with all my heart, I lift my voice
 and sing You are beautiful beyond description And forever I will worship You as
-King </content> </hymn>
+King 
+		</content>
+	</hymn>
 
-
-<hymn> <title>Author of Beauty</title> <content>The heavens are blue,
+	<hymn>
+		<title>Author of Beauty</title>
+		<content>The heavens are blue,
 proclaiming to You The glory of God their creator At sunset or night they’re a
 beautiful sight Yes they show forth the glory of God
 
@@ -961,10 +1092,13 @@ Author of beauty, God on high It is for You that I sigh As long as I live my
 love I shall give To You, Lord my God, most high And all my days I will sing to
 Your praise I adore You my God, most high The surging of seas, the wind in the
 trees Breathe a music of God in nature In songs of a bird nature’s music is
-heard Yes they sing forth the glory of God </content> </hymn>
+heard Yes they sing forth the glory of God 
+		</content>
+	</hymn>
 
-
-<hymn> <title>Here I Am Lord</title> <content>I the Lord of sea and sky I have
+	<hymn>
+		<title>Here I Am Lord</title>
+		<content>I the Lord of sea and sky I have
 heard My people cry All who dwell in dark and sin My hand will save I who made
 the stars of the night I will make their darkness bright Who will bear My light
 to them? Whom shall I send? Chorus Here I am Lord, is it I Lord? I have heard
@@ -974,33 +1108,45 @@ for love of them They turn away I will break their hearts of stone Give them
 hearts for love alone Who will speak My word to them? Whom shall I send? I the
 Lord of wind and flame I will tend the poor and lame I will set a feast for them
 My hand will save Finest bread I will provide Till their hearts be satisfied I
-will give My life to them Whom shall I send? </content> </hymn>
+will give My life to them Whom shall I send? 
+		</content>
+	</hymn>
 
-
-<hymn> <title>I Sing Praises To Your Name</title> <content>(I sing praises to
+	<hymn>
+		<title>I Sing Praises To Your Name</title>
+		<content>(I sing praises to
 Your Name, O’ Lord Prises to Your Name, O’ Lord, For Your Name is great And
 greatly to be praised) 2 (I give glory to Your Name, O’ Lord Glory to Your Name,
-O’ Lord, For Your Name is great And greatly to be praised) </content> </hymn>
+O’ Lord, For Your Name is great And greatly to be praised) 
+		</content>
+	</hymn>
 
-
-<hymn> <title>I’ve Got The Joy, Joy, Joy</title> <content>I’ve got the joy, joy,
+	<hymn>
+		<title>I’ve Got The Joy, Joy, Joy</title>
+		<content>I’ve got the joy, joy,
 joy, joy Down in my heart, where? Down in my heart, where? Down in my heart.
 I’ve got the joy, joy, joy, joy Down in my heart, where? Down in my heart to
 stay Chorus And I’m so happy So very happy I’ve got the love of Jesus in my
 heart Yes, I am so happy, so very happy I’ve got the love of Jesus in my heart
 I’ve got a love for all people Down in my heart, where? Down in my heart, where?
 Down in my heart. I’ve got a love for all people Down in my heart, where? Down
-in my heart to stay </content> </hymn>
+in my heart to stay 
+		</content>
+	</hymn>
 
-
-<hymn> <title>Jesus Lover Of My Soul</title> <content>Jesus, lover of my soul
+	<hymn>
+		<title>Jesus Lover Of My Soul</title>
+		<content>Jesus, lover of my soul
 Jesus, I will never let You go; You’ve taken me from the miry clay, You’ve set
 my feet upon a rock and now I know I love You, I need You, Though my world
 should fall, I’ll never let You go. My Saviour, my closest friend, I will
-worship You until the very end. x2 </content> </hymn>
+worship You until the very end. x2 
+		</content>
+	</hymn>
 
-
-<hymn> <title>Jesus Is Alive In Me</title> <content>I’ll sing a song with sounds
+	<hymn>
+		<title>Jesus Is Alive In Me</title>
+		<content>I’ll sing a song with sounds
 of joy To glorify Your Name Glory and honour to You My Saviour and my Lord For
 You are my God who lives Forever in my heart I’ll sing a song with sounds of joy
 Jesus is alive in me Chorus Jesus is alive in me Jesus is alive in me This is
@@ -1010,25 +1156,34 @@ heart and pray to Him Knowing that He will hear My strength’s ever renewed
 because Jesus is alive in me The living One is sure at work Forever in my heart
 And since You are alive my Lord How can I ever die Many thanks to You my source
 of life For Your abundant love My banner high above me says Jesus is alive in me
-</content> </hymn>
 
+		</content>
+	</hymn>
 
-<hymn> <title>This Is The Day</title> <content>This is the day, this is the day
+	<hymn>
+		<title>This Is The Day</title>
+		<content>This is the day, this is the day
 That the Lord has made That the Lord has made We will rejoice, we will rejoice
 And be glad in it And be glad in it This is the day that the Lord has made We
 will rejoice, and be glad in it This is the day, this is the day That the Lord
-has made </content> </hymn>
+has made 
+		</content>
+	</hymn>
 
-
-<hymn> <title>When I Look Into Your Holiness</title> <content>When I look into
+	<hymn>
+		<title>When I Look Into Your Holiness</title>
+		<content>When I look into
 Your Holiness When I gaze into Your Loveliness When all things that surround
 become shadows In the light of You Chorus (I worship You, I worship You The
 reason I live, is to worship You) 2 When I’ve found the joy of reaching Your
 heart When my will becomes enthralled in Your love When all things that surround
-become shadows In the light of You </content> </hymn>
+become shadows In the light of You 
+		</content>
+	</hymn>
 
-
-<hymn> <title>Just Like The Bird</title> <content>Chorus Just like the bird when
+	<hymn>
+		<title>Just Like The Bird</title>
+		<content>Chorus Just like the bird when
 it found it’s home Just like a happy dove Your house O’ Lord, I love Your house
 I love with honesty Your house is prayer, praise and candles Your house is love,
 light and peace Just as I love Your house O’ Lord I love You unto the end of day
@@ -1036,33 +1191,43 @@ Your house is full of blessings Protected against all demons We celebrate there
 the liturgies They’re prayed for all the saints In Your house we read the Bible
 And learn there the nicest songs And hear there the blessed hymns And praise You
 all our lives Blessed are they who are blameless O’ Lord in Your house living
-Confirm me in Your luminous ways Forever and ever, Amen. </content> </hymn>
+Confirm me in Your luminous ways Forever and ever, Amen. 
+		</content>
+	</hymn>
 
-
-<hymn> <title>King of Kings</title> <content>(King of kings and Lord of lords
+	<hymn>
+		<title>King of Kings</title>
+		<content>(King of kings and Lord of lords
 Glory, Hallelujah) 2 (Jesus Prince of peace Glory, Hallelujah) 2 Repeat
-</content> </hymn>
 
+		</content>
+	</hymn>
 
-<hymn> <title>When The Spirit Of The Lord</title> <content>(When the Spirit of
+	<hymn>
+		<title>When The Spirit Of The Lord</title>
+		<content>(When the Spirit of
 the Lord moves in my heart I will love as Jesus loves) 2 (I will love, I will
 love I will love as Jesus loves) 2 (When the Spirit of the Lord moves in my
 heart I will pray as David prayed) 2 (I will pray, I will pray I will pray as
 David prayed) 2 (When the Spirit of the Lord moves in my heart I will preach as
 Peter preached) 2 (I will preach, I will preach I will preach I will preach) 2
 (When the Spirit of the Lord moves in my heart, I will serve as St. Paul served)
-2 (I will serve, I will serve, I will serve as St. Paul served)2 </content>
-</hymn>
+2 (I will serve, I will serve, I will serve as St. Paul served)2
+		</content>
+	</hymn>
 
-
-<hymn> <title>Change My Heart O’ God</title> <content>(Change my heart O’ God
+	<hymn>
+		<title>Change My Heart O’ God</title>
+		<content>(Change my heart O’ God
 Make it ever true Change my heart O’ God May I be like You) 2 You are the potter
 I am the clay Mould me and make me This is what I pray Change my heart O’ God
-Make it ever true Change my heart O’ God May I be like You </content> </hymn>
+Make it ever true Change my heart O’ God May I be like You 
+		</content>
+	</hymn>
 
-
-
-<hymn> <title>Don’t Leave Me Alone</title> <content>No don’t leave me alone O my
+	<hymn>
+		<title>Don’t Leave Me Alone</title>
+		<content>No don’t leave me alone O my
 faithful Shepherd Guide me dear Master And be unto me a Helper Chorus (I am O
 Lord without You nothing at all) 2 (So take my right hand, O Lord and guide me
 In Your way forever) 2 And don’t leave me alone In the midst of this darkness
@@ -1070,11 +1235,13 @@ Let Your bright face guide me O Lord unto peace And don’t leave me alone But
 hear my prayers And be there for me dear Lord For the rest of my life And don’t
 leave me alone Because of my great sins But forgive me O Lord And accept my
 repentance No don’t leave me alone In this dark empty world I’m longing for You
-Lord To take me to Your rest </content> </hymn>
+Lord To take me to Your rest 
+		</content>
+	</hymn>
 
-
-
-<hymn> <title>Agios isteen</title> <content>O Kirios metaso. Agios istin:
+	<hymn>
+		<title>Agios isteen</title>
+		<content>O Kirios metaso. Agios istin:
 opateer vasilevsin: the penthevio: genos enzoxin: tou epnevma to agio. Zee-keos
 istin: opateer eovoeethin: the-penthevio: zoeen en-eporanion: tou epnevma to
 agio. Ee-panos istin: opateer thi-savrin: the-penthevio: Ieesos en-eporanion: to
@@ -1084,11 +1251,13 @@ the-penthevio: ondos en-eporanion: to epnevma to agio. Pee-menos istin: opateer
 raravsin: the-penthevio: stavros en-eporanion: to epnevma to agio. Tee-mios
 istin: opateer eemonfin: the-penthevio: fosteer en-eporanion: to epnevma to
 agio. Shere istin istin: opateer epsalevsin: the-penthevio: ondos eneporanion:
-to epnevma to agio. </content> </hymn>
+to epnevma to agio. 
+		</content>
+	</hymn>
 
-
-
-<hymn> <title>I Place My Soul</title> <content>I Place My Soul Into Your Hand I
+	<hymn>
+		<title>I Place My Soul</title>
+		<content>I Place My Soul Into Your Hand I
 place my soul into Your hands My Lord Jesus Christ. Lead me ‘cause I depend on
 You, Lead me and I’ll serve You Please be my guide in every way Be my guard I
 won’t go astray Sanctify my heart and my needs Until I see You Lord. Chorus (As
@@ -1115,11 +1284,13 @@ overcome the world Your tears I’ll wipe away I showed you My love on the cross
 And if you’re faithful unto death I will give you eternal life Come now and
 follow Me Chorus (As You have always said O’ source of all goodness) 2 Come unto
 Me all you weary Come unto Me and you will find rest Come unto Me I am the Way I
-am the Truth and Life </content> </hymn>
+am the Truth and Life 
+		</content>
+	</hymn>
 
-
-
-<hymn> <title>O Mother of the human race</title> <content>O Mother of the human
+	<hymn>
+		<title>O Mother of the human race</title>
+		<content>O Mother of the human
 race We Honour you O full of grace Queen of Heaven, beautiful dove Fountain of
 unending love We ask of you to pray for us To God your son who dwells above To
 help us in all our trials And keep us safe O Theotokos
@@ -1139,21 +1310,23 @@ church Please come and visit us. And Teach us how to worship Him, And fill us
 with His Holy Grace, That we may look unto you to see our blessed saviour come
 We ask of you to pray for us To God your son who dwells above To help us in all
 our trials And keep us safe O Theotokos
+		</content>
+	</hymn>
 
-</content> </hymn>
-
-
-
-<hymn> <title>Power of Your Love</title> <content>Lord I come to you, Let my
+	<hymn>
+		<title>Power of Your Love</title>
+		<content>Lord I come to you, Let my
 heart be changed, renewed Flowing from the grace that I’ve found in You. And
 Lord I’ve come to know, The weaknesses I see, in me Will be stripped away, By
 the power of Your love Hold me close, let your love surround me Bring me near,
 draw me to your side And as I wait, I’ll rise up like the eagle And I will soar
-with You, Your spirit leads me on In the power of Your love. </content> </hymn>
+with You, Your spirit leads me on In the power of Your love. 
+		</content>
+	</hymn>
 
-
-
-<hymn> <title>Who am I</title> <content>Who am I to be part of Your people The
+	<hymn>
+		<title>Who am I</title>
+		<content>Who am I to be part of Your people The
 ones that are called by Your Name Could I be chosen as one of Your own? Could it
 be that our blood is the same? How can a stranger, a remnant of nations Belong
 to the Royal line? You showed Your grace When the branches were broken And I was
@@ -1161,24 +1334,33 @@ grafted into the vine Chorus (Blessed be the Name of the Lord) 4 How could You
 show me such bountiful mercy By taking the life of the Lamb? Your love is grater
 than I can imagin I love You with all that I am Praise to You Jesus, the veil
 has been parted And what was once secret is known Now I can cry to You Father my
-Father And praise You as one of Your Own </content> </hymn>
+Father And praise You as one of Your Own
+		</content>
+	</hymn>
 
-<hymn> <title>At the Cross</title> <content>Oh Lord You’ve Searched me You know
+	<hymn>
+		<title>At the Cross</title>
+		<content>Oh Lord You’ve Searched me You know
 my way even when I fail you I know you love me Your Holy presence Surrounding me
 in every season I know You Love, I know You Love
 
 At the Cross I bow my knee where your blood was shed for me there’s no greater
 Love than this... You have overcome the grave Glory fills the highest place what
-can seperate me now </content> </hymn>
+can seperate me now
+		</content>
+	</hymn>
 
-<hymn> <title>Hungry</title> <content>Hungry, I come to you For I know you
+	<hymn>
+		<title>Hungry</title>
+		<content>Hungry, I come to you For I know you
 satisfy I am empty but I know Your love does not run dry So I wait for You So I
 wait for You I’m falling on my knees Offering all of me Jesus, You’re all this
 heart is living for Broken, I run to You For Your arms are open wide I am weary,
 but I know Your touch restores my life So I wait for You So I wait for You
 </content> </hymn>
 
-<hymn> <title>Open The Eyes of My Heart</title> <content>(Open the eyes of my
+<hymn> <title>Open The Eyes of My Heart</title>
+		<content>(Open the eyes of my
 heart Lord Open the eyes of my heart I want to see You I want to see You) x2 To
 see You high and lifted up Shining in the light of Your glory Pour out Your
 power and love As we sing holy, holy, holy You are.................Holy Holy
@@ -1189,9 +1371,13 @@ Holy I want to see you
 want to see You) x2 To see You high and lifted up Shining in the light of Your
 glory Pour out Your power and love As we sing holy, holy, holy You
 are.................Holy Holy Holy We Sing.................Holy Holy Holy You
-are.................Holy Holy Holy I want see you </content> </hymn>
+are.................Holy Holy Holy I want see you
+		</content>
+	</hymn>
 
-<hymn> <title>Find Me</title> <content>I’m lost in the wilderness A state I’ve
+	<hymn>
+		<title>Find Me</title>
+		<content>I’m lost in the wilderness A state I’ve
 carved from own I’ve hidden my existence Not knowing where I belong Chorus We
 cry, We mourn, We beg for Your mercy, They laugh, They scorn, They teach the
 world hypocrisy
@@ -1207,9 +1393,13 @@ mercy, They laugh, They scorn, They teach the world hypocrisy.
 I hear war, I see violence, Spreading across the seas The masterpiece created
 Begs for it all to cease Chorus We cry, We mourn, We beg for Your mercy, They
 laugh, They scorn, They teach the world hypocrisy. I pray, For love to abound
-For faith to be found For grace to surround </content> </hymn>
+For faith to be found For grace to surround
+		</content>
+	</hymn>
 
-<hymn> <title>Give thanks</title> <content>Give Thanks to the LORD! Call upon
+	<hymn>
+		<title>Give thanks</title>
+		<content>Give Thanks to the LORD! Call upon
 His Name Make known His deeds among you Sing unto Him Sing Psalms to Him Talk of
 all His wondrous works Glory in Your Name! We shout out loud and say Let the
 hearts rejoice Who lift their voice And seek His Holy face! x 2
@@ -1219,7 +1409,8 @@ all things which He has done to me Glory in Your Name! We shout out loud and say
 Let the hearts rejoice who lift their voice and seek His Holy face! x 2
 </content> </hymn>
 
-<hymn> <title>Shephard of my soul</title> <content>O Thou in whose presence
+<hymn> <title>Shephard of my soul</title>
+		<content>O Thou in whose presence
 delighteth my soul And whom in my distress I call My comfort by day and my
 refuge by night My stronghold whenever I fall. Shepherd of my soul I beg Thee to
 tell Where thou keepest thy sheep to rest For why should I roam in the valley of
@@ -1233,9 +1424,13 @@ He is mine too He calleth me sister and spouse O how do I long for the day we
 shall wed In heaven in His Father’s house.
 
 Because the Lord is Good I will lift His Name HIGHER Everywhere I go I will lift
-His Name x2 </content> </hymn>
+His Name x2
+		</content>
+	</hymn>
 
-<hymn> <title>Each time I sin</title> <content>I know that it’s not You my Lord
+	<hymn>
+		<title>Each time I sin</title>
+		<content>I know that it’s not You my Lord
 who’s left me But my own blackened sin has dimed my path I stumble I am lost and
 I am falling And then I see you cry out for my soul I’m about to pierce Your
 side with sinful soldiers Then I crumble at Your feet ..it’s me You’ve saved!
@@ -1253,9 +1448,13 @@ me from my fate? You said Dear Lord you’d never leave a sinner My sin is the
 reason that You came I see clearly now how deeply I have hurt you Now I’ll
 pursue Your flawless Devine truth And I shut my eyes and thank You for Your
 Mercy My tormented soul Lord You have calmed And I’m warm and safely rested in
-Your arms </content> </hymn>
+Your arms
+		</content>
+	</hymn>
 
-<hymn> <title>When you call on Jesus</title> <content>I’m So very ordinary
+	<hymn>
+		<title>When you call on Jesus</title>
+		<content>I’m So very ordinary
 Nothing special on My own Oh I’ve never walked on water And I have never calmed
 a storm Sometimes I’m hiding away from the madness around me Like a child who’s
 afraid of the dark
@@ -1287,9 +1486,13 @@ eagles’ and soar! When You call on Jesus Mountains are gonna fall ‘Cause He�
 move Heaven and earth to come rescue you when you call
 
 
-La la la la la </content> </hymn>
+La la la la la
+		</content>
+	</hymn>
 
-<hymn> <title>Everyday</title> <content>Everyday Under the cross I’d go and
+	<hymn>
+		<title>Everyday</title>
+		<content>Everyday Under the cross I’d go and
 kneel before you Lord And speak my thoughts Without fear Just like my Father I’d
 say my inner feelings there When we’re together
 
@@ -1314,18 +1517,24 @@ poured
 I’m a humbled and in awe When I think of what I owe I will walk Your way for
 sure Under Your Cross And my heart will sing to You All My life I’ll worship too
 From my deepest and my true Love for the Cross…x2 My Love for Your Cross
-</content> </hymn>
 
+		</content>
+	</hymn>
 
-<hymn> <title>Lifted high (by the cross)</title> <content>At Thy feet O’ Lord I
+	<hymn>
+		<title>Lifted high (by the cross)</title>
+		<content>At Thy feet O’ Lord I
 lay and so There’s nowhere else I would rather go. Lift me up O’ Lord and and
 let my spirit soar. Pour out Thy mercy through me and make me whole. {O’ Lord I
 wish to leave this world I pray to thee and ask of You but one thing Lord I beg
 of thee Tie my hands and flesh to Your Holy cross And let me not leave it at any
-cost} x2 at any cost </content> </hymn>
+cost} x2 at any cost 
+		</content>
+	</hymn>
 
-
-<hymn> <title>Je Penniot (Our Father)</title> <content>Je Penniot et khen
+	<hymn>
+		<title>Je Penniot (Our Father)</title>
+		<content>Je Penniot et khen
 nifi-owi mareftovo enje Pekran. VERSE 1 When I wake up, at the break of day, Out
 of bed I get up, to start the day, I clasp my hands together and say: Je Penniot
 et khen nifi-owi mareftovo enje Pekran.
@@ -1343,11 +1552,12 @@ khen nifi-owi mareftovo enje Pekran.
 CHORUS 2 Our Father Who art in heaven, Hallowed and honoured be Thy name. CHORUS
 3 Je Penniot et khen nifi-owi mareftovo enje Pekran. Mares-ee enje Tekmetoro. Je
 Fok pe pi o-oo sha ne-eneh.
+		</content>
+	</hymn>
 
-</content> </hymn>
-
-
-<hymn> <title>Hymn to the Virgin</title> <content>Let us sing a hymn To Mary the
+	<hymn>
+		<title>Hymn to the Virgin</title>
+		<content>Let us sing a hymn To Mary the
 Virgin That heavenly gate And Glory of our world The new bud of Human kind Who
 gave birth to the Lord The Angels sing her song The Pride of the Church For she
 received within No less than heaven The temple of our God Where He dwelt for
@@ -1356,10 +1566,13 @@ months
 For she has put to down The wall of enmity Has brought about our peace And led
 us to His throne Hold fast to her beauty The anchor of our faith And so take
 heart All you people of God For He shall gird for war Against our many foes, Who
-is the lover Of mankind </content> </hymn>
+is the lover Of mankind 
+		</content>
+	</hymn>
 
-
-<hymn> <title>Everything to me</title> <content>I grew up in sunday school I
+	<hymn>
+		<title>Everything to me</title>
+		<content>I grew up in sunday school I
 memorized the Golden rule And how Jesus came to set the sinner free I know the
 story inside out I can tell you all about The path that led Him up to Calvary
 But ask me why He loves me And I don’t know what to say But i’ll never be the
@@ -1383,11 +1596,13 @@ saying You’ve been...
 Everything to me You’re more than a story More than words on a page of history
 You’re everything to me You’re more than a story More than words on a page of
 history You’re the air that I breath The water I thirst for And the ground
-beneath my feet You’re everything to me Lord, you’re everything to me </content>
-</hymn>
+beneath my feet You’re everything to me Lord, you’re everything to me
+		</content>
+	</hymn>
 
-
-<hymn> <title>You are amazing God</title> <content>From the highest of heights
+	<hymn>
+		<title>You are amazing God</title>
+		<content>From the highest of heights
 to the depths of the sea Creation’s revealing Your majesty From the colours of
 fall to the fragrance of spring Every creature unique in the song that it sings
 All exclaiming Indescribable, uncontainable, You placed the stars in the sky and
@@ -1403,11 +1618,13 @@ by name. You are amazing God All powerful, untameable, Awestruck we fall to our
 knees as we humbly proclaim You are amazing God You are amazing God...........x2
 
 You are amazing God Incomparable, unchangeable You see the depths of my heart
-and You love me the same You are amazing God You are amazing God </content>
-</hymn>
+and You love me the same You are amazing God You are amazing God
+		</content>
+	</hymn>
 
-
-<hymn> <title>The ship has come</title> <content>O look the ship has come And
+	<hymn>
+		<title>The ship has come</title>
+		<content>O look the ship has come And
 sails come to unfold The captain there is calling All to Jesus Aboard I am going
 to heaven I’m going to heaven So glad I’m with the saviour Going to heaven
 
@@ -1423,7 +1640,8 @@ Lord God Almighty Who reigns forever more.......................x2 </content>
 
 
 
-<hymn> <title>Who am I</title> <content>Who am I, that the Lord of all the earth
+<hymn> <title>Who am I</title>
+		<content>Who am I, that the Lord of all the earth
 Would care to know my name Would care to feel my hurt Who am I, that the Bright
 and Morning Star Would choose to light the way For my ever wandering heart
 
@@ -1448,7 +1666,8 @@ when I’m falling And You’ve told me who I am I am Yours, I am Yours </conten
 
 
 
-<hymn> <title>Holy Queen</title> <content>Hail holy Queen enthroned above, Oh
+<hymn> <title>Holy Queen</title>
+		<content>Hail holy Queen enthroned above, Oh
 Maria, Hail mother of Mercy and of Love, Oh Maria,
 
 Triumph all ye cherubim! Sing with us ye seraphim! Heaven and Earth, resound the
@@ -1476,11 +1695,13 @@ Triumph all ye cherubim! Sing with us ye seraphim! Heaven and Earth, resound the
 hymn! Salve (salve), salve, salve Regina!
 
 Triumph all ye cherubim! Sing with us ye seraphim! Heaven and Earth, resound the
-hymn! Salve (salve), salve, salve Regina! </content> </hymn>
+hymn! Salve (salve), salve, salve Regina! 
+		</content>
+	</hymn>
 
-
-
-<hymn> <title>As the thunder rolls</title> <content>I was sure by now,God, You
+	<hymn>
+		<title>As the thunder rolls</title>
+		<content>I was sure by now,God, You
 would have reached down and wiped our tears away, stepped in and saved the day.
 But once again, I say amen and it’s still raining
 
@@ -1506,10 +1727,13 @@ my help come from? My help comes from the Lord, the maker of heaven and earth
 And I’ll praise you in this storm and I will lift my hands for You are who You
 are no matter where I am and every tear I’ve cried You hold in your hand You
 never left my side and though my heart is torn I will praise You in this storm
-</content> </hymn>
 
+		</content>
+	</hymn>
 
-<hymn> <title>Come, now is the time</title> <content>Come, now is the time to
+	<hymn>
+		<title>Come, now is the time</title>
+		<content>Come, now is the time to
 worship Come, now is the time to give your heart Come, just as you are to
 worship Come, just as you are before your God
 
@@ -1523,9 +1747,13 @@ the greates treasure remains for those, Who gladly choose you now Ooh, we’re
 calling You Calling all nations Now is the time One day ev’ry tongue will
 confess You are God One day ev’ry knee will bow Still the greatest treasure
 remains for those, Who gladly choose you now One day ev’ry tongue will confess
-You are God </content> </hymn>
+You are God
+		</content>
+	</hymn>
 
-<hymn> <title>I called you</title> <content>I called upon You from the depth of
+	<hymn>
+		<title>I called you</title> 
+		<content>I called upon You from the depth of
 my heart, My Lord Jesus help me. Release from me the bonds of sin, My Lord Jesus
 Christ help me. 2) Be a help to me so that you may save me, My Lord Jesus.. May
 your goodness come to me speedily, My Lord Jesus Christ .... 3) Overshadow me
@@ -1555,8 +1783,8 @@ Praised and beloved is Your Holy Name, My Lord Jesus... Disperse from me all the
 devils, My Lord Jesus Christ 16) Instil in me the fruit if Your righteousness,
 My Lord Jesus.. .Give us Your true peace and forgive us our sins My Lord Jesus
 Christ help me.
-
-</content> </hymn>
+		</content>
+	</hymn>
 
 
 </hymns>
