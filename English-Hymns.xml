@@ -1,5 +1,4 @@
 <hymns> 
-
 	<newhymn>
 		<title>Amazing Love</title>
 		<content>I‟m forgiven because You were forsaken
@@ -107,7 +106,7 @@ Moses' law says she should be stoned, (x2)
 Now You tell us what do You think? (x2)
 
 Jesus in sorrow stooped down,
-Wrote with His finger on the ground; (2)
+Wrote with His finger on the ground; (x2)
 They continued asking Him,
 He raised Himself and said one thing:
 He who is without a sin,
@@ -826,28 +825,28 @@ To live with Thee there</content>
 	<newhymn>
 		<title>Abouna Abouna</title>
 		<content>Abouna your love is forever strong,
-You show us the way when we are wrong (2)
-Your joy comes from heaven above (2)
+You show us the way when we are wrong (x2)
+Your joy comes from heaven above (x2)
 You always fill our hearts with Love
 Abouna, Abouna
 
 You are our teacher and our guide
-You bring the best out from inside (2)
-__ years ago, we were blessed (2)
+You bring the best out from inside (x2)
+__ years ago, we were blessed (x2)
 By a wise man we were impressed
 Abouna, Abouna
 
 Abouna your love is forever strong…
 Ya Abouna when we are distressed,
-The words you say make us feel blessed (2)
-No words describe, how we love you (2)
+The words you say make us feel blessed (x2)
+No words describe, how we love you (x2)
 Your good example we look to
 Abouna, Abouna
 
 Abouna your love is forever strong…
 You have a willing hand to lend,
-And Abouna, you are the perfect friend (2)
-You strive to serve, with all your heart (2)
+And Abouna, you are the perfect friend (x2)
+You strive to serve, with all your heart (x2)
 From you we wish to never part.
 Abouna, Abouna
 Abouna your love is forever strong…</content>
@@ -870,6 +869,7 @@ Above all kingdoms, above all thrones
 Above all wonders, the world has ever known
 Above all wealth and treasures of the earth
 There's no way to measure what You're worth
+
 Crucified… (x2)</content>
 	</hymn>
 
@@ -2088,7 +2088,7 @@ Your Holy Name I always call
 Bless me and sanctify my soul
 Until I see the Lord
 
-Your tender voice I hear, whether I am far or near (2)
+Your tender voice I hear, whether I am far or near (x2)
 “Come to Me O troubled come
 I will help you overcome.
 Come to Me heavy laden come
@@ -2302,7 +2302,7 @@ In moments like these
 I lift up my hands
 I lift up my hands to the Lord.
 
-Singing I love You, Lord (3)
+Singing I love You, Lord (x3)
 I love You</content>
 	</hymn>
 
@@ -2876,7 +2876,7 @@ Coming from everywhere (x2)
 
 Coming from ailing and pain coming from a life of distain
 Dressed in heavenly array and on the strings they play
-They were the ones he saved…with the blood he gave (2)
+They were the ones he saved…with the blood he gave (x2)
 …I saw them waving as they came this way
 
 Of all nations…
@@ -2889,14 +2889,14 @@ Of all nations…
 
 In the furnace they stroll in prison as if at home
 In the spirit they felt consoled in Christ they were absorbed
-They were the ones he saved…with the blood he gave (2)
+They were the ones he saved…with the blood he gave (x2)
 …I saw them cheering as they came this way
 
 Of all nations…
 
 Despised and hated they were in grief they always stayed
 Safety and peace they had as they offer their praise
-They were the ones he saved…with the blood he gave (2)
+They were the ones he saved…with the blood he gave (x2)
 …I saw them victorious as they came this way
 
 Of all nations…</content>
@@ -3049,7 +3049,7 @@ Love your neighbor as yourself (echo x2)
 And He (echo)
 Shall lift (echo)
 You up (echo)
-Higher and higher (2)
+Higher and higher (x2)
 Into the Heavens
 And He shall lift You up
 
@@ -3377,7 +3377,7 @@ Will be my strength
 I will not falter, I will not faint
 He is My Shepherd I am not afraid
 The joy of the Lord is my strength
-The joy of the Lord (3)
+The joy of the Lord (x3)
 The joy of the Lord is my strength
 
 The joy of the Lord
@@ -3385,7 +3385,7 @@ Will be my strength
 He will uphold me all of my days
 I am surrounded by mercy and grace
 And the joy of the Lord is my strength
-The joy of the Lord (3)
+The joy of the Lord (x3)
 The joy of the Lord is my strength</content>
 	</hymn>
 
@@ -3485,7 +3485,7 @@ And if the world falls apart around me…</content>
 	<hymn>
 		<title>We Are One In The Spirit</title>
 		<content>We are one in the Spirit,
-We are one in the Lord (2)
+We are one in the Lord (x2)
 And we pray that our unity
 May one day be restored.
 
@@ -3495,14 +3495,14 @@ Yes, they'll know we are Christians
 By our love.
 
 We will walk with each other,
-We will walk hand in hand (2)
+We will walk hand in hand (x2)
 And together we'll spread the news
 That God is in our land
 
 And they'll know we are Christians…
 
 We will work with each other,
-We will work side by side (2)
+We will work side by side (x2)
 And we'll guard each man's dignity
 And save each man's pride
 
@@ -3720,9 +3720,9 @@ Your love is a mountain, Firm beneath my feet.
 Your love is a mystery. How you gently lift me
 When I am surrounded, Your love carries me.
 
-Hallelujah(3x)
+Hallelujah(x3)
 Your love makes me sing!
-Hallelujah(3x)
+Hallelujah(x3)
 Your love makes me sing!
 
 Your love is surprising, I can feel it rising.
@@ -3731,9 +3731,9 @@ All the joy that's growing, deep inside of me.
 Every time I see you, All your goodness shines through.
 And I can feel its God's song, Rising up in me.
 
-Hallelujah(3x)
+Hallelujah(x3)
 Your love makes me sing!
-Hallelujah(3x)
+Hallelujah(x3)
 Your love makes me sing!</content>
 	</hymn>
 
@@ -3986,44 +3986,37 @@ In the strength of the Lord, I will trust in You.</content>
 		<title>From All Nations</title>
 		<content>From all nations, From all tribes, From all people From all nations, From all tribes, From all tongues 
 
-(Before the throne stand myriads, of myriads) (2x) 
+(Before the throne stand myriads, of myriads) (x2) 
 		
 Coming from everywhere Coming from ailing pain, coming from a life of distain Dressed in heavenly array, and on their strings they play
 
-(They were the ones he saved with the blood he gave) (2x) 
+(They were the ones he saved with the blood he gave) (x2) 
 
 I saw them waving, as they came this way  From all nations, From all tribes, From all people From all nations, From all tribes, From all tongues 
 
-(Before the throne stand myriads, of myriads) (2x) 
+(Before the throne stand myriads, of myriads) (x2) 
 
 Coming from everywhere  Before judges they stand, in chains they’d tied their hands Injustice they bore too, their aim so high and grand. 
 
-(They were the ones he saved with the blood he gave) (2x) 
+(They were the ones he saved with the blood he gave) (x2) 
 
 I saw them thanking, as they came this way  From all nations, From all tribes, From all people From all nations, From all tribes, From all tongues 
 
-(Before the throne stand myriads, of myriads) (2x) 
+(Before the throne stand myriads, of myriads) (x2) 
 
 Coming from everywhere  In the furnace they would stroll, in prison as if at home In the spirit they felt consoled in Christ they were absorbed 
 
-(They were the ones he saved with the blood he gave) (2x) 
+(They were the ones he saved with the blood he gave) (x2) 
 
 I saw them cheering, as they came this way.  From all nations, From all tribes, From all people From all nations, From all tribes, From all tongues 
 
-(Before the throne stand myriads, of myriads) (2x)
+(Before the throne stand myriads, of myriads) (x2)
 
 Coming from everywhere  They were hated and Despised, their lives remained in strife their peace was not destroyed, for praising gave them joy 
 
-(They were the ones he saved with the blood he gave) (2x) 
+(They were the ones he saved with the blood he gave) (x2) 
 
 I saw them victorious as they came this way</content>
-	</hymn>
-	
-	<hymn>
-		<title>Above All</title>
-		<content>Above all powers, above all kings Above all nature and all created things 
-		
-Above all wisdom and all the ways of man You were here before the world began Above all kingdoms, above all thrones Above all wonders the world has ever known Above all wealth and treasures of the earth There’s no way to measure what you’re worth   Crucified Laid behind a stone You lived to die Rejected and alone Like a rose Trampled on the ground You took the fall And thought of me Above all Like a rose Trampled on the ground You took the fall And thought of me Above all</content>
 	</hymn>
 	
 	<hymn>
@@ -4941,11 +4934,11 @@ Your name is higher higher Jesus Christ Your name is glorious  Now unto me the C
 
 Your name is higher higher Jesus Christ Your name is glorious Your name is greater sweeter In all the earth
 
-Higher, higher, higher, He's higher (2x)  
+Higher, higher, higher, He's higher (x2)  
 
-So great and greatly to be praised are You So great and greatly to be praised (2x)  
+So great and greatly to be praised are You So great and greatly to be praised (x2)  
 
-And you shall be called Almighty God, and we shall declare  He's higher, higher, higher, higher(2x)  
+And you shall be called Almighty God, and we shall declare  He's higher, higher, higher, higher(x2)  
 
 I owe you my life, I will worship you forever I owe you my life, I will live to bring you praise (4x)</content>
 	</hymn>
